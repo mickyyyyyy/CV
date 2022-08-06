@@ -22,7 +22,8 @@ Email: michael.hammond@uqconnect.edu.au
 ### Work Experience
 | **Dates** | **Position** | **Details** |
 |-----------|--------------|-------------|
-| Feb 2019 - current | **Supervisor at Coles Morningside** | Requires significant problem solving in team members relying on you to assist customers with problems, trouble-shoot technological problems and solve conflicts, in addition to trying to satisfy team members and superiors. |
+| May 2022 - current | **Graduate Electrical Engineer at Waterline** | Working on inter-disciplinary projects to satisfy client's requirements, involved in long-term Intrinsic Safety audits, experience in electrical redlining, drafting and consultation and involved in the re-commissioning of Broadwater's Sugar Mill. |
+| Feb 2019 - May 2022 | **Supervisor at Coles Morningside** | Requires significant problem solving in team members relying on you to assist customers with problems, trouble-shoot technological problems and solve conflicts, in addition to trying to satisfy team members and superiors. |
 | 2016 – early Feb 2019 | **Team Member at Coles Morningside** | Involves operating the checkouts and problem solving in trying to satisfy customers and superiors. |
 
 ### Course-Related Experience
