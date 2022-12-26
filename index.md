@@ -29,7 +29,8 @@ Email: michael.hammond@uqconnect.edu.au
 ### Course-Related Experience
 | **Dates** | **Position** | **Details** |
 |-----------|--------------|-------------|
-| Jul 2021 - current | **Mechatronics Engineering Thesis Project under Dr. Dhaval Vyas** | I am aiming to understand the needs of housebound people and design and build a prototype smart home device, using Artificial Intelligence (AI) to assist with some of these identified needs. |
+| Nov 2021 - Mar 2022 | **Mine Planning Internship under Dr. Micah Nehring** | Introduced to the basics of mine planning, and undertook various mine planning simulations in Arena Simulation. |
+| Jul 2021 - Jun 2022 | **Mechatronics Engineering Thesis Project under Dr. Dhaval Vyas** | I aimed to understand the needs of housebound people and design and build a prototype smart home device, using Artificial Intelligence (AI) to assist with some of these identified needs. |
 | Jul – Nov 2021 | **Computer Science Team Project** | I worked in a team to develop a social media app aimed to help teenagers and young adults improve their mindset. |
 | Jul – Nov 2020 | **Control Engineering 2** | Understanding dynamic behaviour of models, including stability, controllability, and non-linear behaviour to control an inverted pendulum attached to a gyroscope, and a quadcopter operated via a joystick. |
 | Jul – Nov 2020 | **Design Computing Studio 2** | I worked in an 11 person team (including Computer Scientists, Engineers, Design students etc.) to implement features to a game (using Java) for collecting orbs and fighting Non-Playable Characters (NPCs). |
@@ -43,11 +44,11 @@ Email: michael.hammond@uqconnect.edu.au
 ### Education
 | **Education Stage** | **Dates** | **Achievement** | **Details** |
 |---------------------|-----------|-----------------|-------------|
-| **Tertiary** | 2017 - current | **Completing a Bachelor of Engineering (Honours)/ Bachelor of Science** | Majoring in Mechatronic Engineering and Computer Science with an expected completion date of June 2022 |
-| | | Academic Achievement | Distinction average (grades given on request) | 
+| **Tertiary** | 2017 - 2022 | **Completed a Bachelor of Engineering (Honours)/ Bachelor of Science** | Majoring in Mechatronic Engineering and Computer Science with an expected completion date of June 2022 |
+| | | Academic Achievement | Honours class IIA (grades given on request) | 
 | | | | Dean’s Commendation of Academic Excellence |
 | | | Campus Involvements | Presented at the 2017, 2018 Science Undergraduate Research Conference |
-| | | | Member of the Advanced Studies Program in Science (ASPinS) |
+| | | | Completed the Advanced Studies Program in Science (ASPinS) |
 | **Secondary** | 2012 - 2016 | **Completed Secondary School at Villanova College** | QCE Achieved |
 | | | Academic Achievement | OP 2 |
 | | | | Academic Award First and Second Semester of 2016 |
