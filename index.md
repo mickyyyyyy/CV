@@ -9,6 +9,7 @@ Email: michael.hammond@uqconnect.edu.au
 -	Able to work in a team situation, to communicate, plan and work efficiently with colleagues through experience from projects and team sports such as soccer at school and through university.
 -	I always strive for excellence and take great pride in my work.
 -	Programming knowledge in C, Assembly language, MATLAB (including Simulink), Java and Python (Object-Oriented Programming) to problem solve with theoretical situations and experimental situations with microcontrollers.
+-	Programming knowledge in front-end languages including HTML, CSS and Javascript, using these languages in conjunction with PHP and Flask (Python) for full-stack projects.
 -	Experience in computer vision, creating models of 3D objects from 2D projections, facial recognition using Eigenfaces, license plate recognition etc.
 -	Experience in network programming (i.e., using pipes to send information, setting up servers and clients to interact with each other using C).
 -	Proficient in designing Entity Relationship diagrams, mapping these ER diagrams to a relational schema, and designing databases using SQL.
@@ -22,7 +23,8 @@ Email: michael.hammond@uqconnect.edu.au
 ### Work Experience
 | **Dates** | **Position** | **Details** |
 |-----------|--------------|-------------|
-| May 2022 - current | **Graduate Electrical Engineer at Waterline** | Working on inter-disciplinary projects to satisfy client's requirements, involved in long-term Intrinsic Safety audits, experience in electrical redlining, drafting and consultation. Involved in the re-commissioning of Broadwater's Sugar Mill. |
+| June 2023 - current | **Asset & Data Engineer at The Department of Main Roads and Transport** | As a contractor for the Department of Main Roads and Transport, I'm mainly liasing with district leaders, and trying to improve the asset management system for Information Technology Systems & Electrical assets in Queensland. |
+| May 2022 - May 2023 | **Graduate Electrical Engineer at Waterline** | Working on inter-disciplinary projects to satisfy client's requirements, involved in long-term Intrinsic Safety audits, experience in electrical redlining, drafting and consultation. Involved in the re-commissioning of Broadwater's Sugar Mill in addition to being the Site Electrical Engineer for Curragh Mine, with a total of six months of on-site experience. |
 | Feb 2019 - May 2022 | **Supervisor at Coles Morningside** | Requires significant problem solving in team members relying on you to assist customers with problems, trouble-shoot technological problems and solve conflicts, in addition to trying to satisfy team members and superiors. |
 | 2016 – early Feb 2019 | **Team Member at Coles Morningside** | Involves operating the checkouts and problem solving in trying to satisfy customers and superiors. |
 
